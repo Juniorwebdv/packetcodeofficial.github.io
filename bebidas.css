@@ -1,0 +1,507 @@
+body{
+
+margin: 0 auto;
+padding: 0 auto;
+font-family: 'Exo 2', sans-serif;
+
+}
+
+.clearfix{
+
+clear: both;
+
+
+}
+
+/* NAVBAR - SIDE */
+
+.container-fluid{
+border-bottom: none;
+background:#ED1C24;
+margin-bottom: none;
+height: auto;
+}
+
+.inside{
+background:none;
+margin: 0 auto;
+width: 937px;
+max-width: 100%;
+height: auto;
+overflow: hidden;
+padding-bottom: 7px;
+margin-bottom: none;
+
+}
+
+.nav1 .left a li{
+
+display: inline-block;
+text-decoration: none;
+margin: 0px 12px;
+font-size: 16px;
+float: left;
+color: white;
+font-weight: bold;
+
+}
+
+
+
+ .active  {
+border-radius: 6px;
+color:white;
+background: #C4021D;
+
+}
+
+.nav1 .right a li{
+color: black;
+display: inline-block;
+text-decoration: none;
+margin: 0px 12px;
+
+float: right;
+
+}
+
+
+.container{
+width: 870px;
+margin: 0 auto;
+height: auto;
+max-width: 100%;
+
+margin-top: ;
+
+
+}
+
+
+.welcome{
+color: white;
+font-weight:bold; 
+position: relative;
+font-family: 'Glegoo', serif;
+font-size: 16px;
+
+
+
+}
+
+
+
+.cont-menu{
+
+width: 950px;
+
+margin: 0 auto;
+max-width: 100%;
+background:none;
+font-size: 16px;
+margin-bottom: none;
+height: auto;
+border-radius: 10px;
+padding: 26px;
+box-shadow: 6px 6px  6px #4a9155;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+ .navbar-default{
+background:url('http://wallpapercave.com/wp/ROBntMb.jpg'); 
+border-bottom: none;
+padding: 30px;
+background-position: left left;
+background-repeat: no-repeat;
+background-size: cover;
+
+ }
+
+.navbar-right li  {
+margin: 3px;
+font-weight: bold;
+color: white;
+text-shadow:  1px 1px 2px  black;
+
+}
+
+.navbar-default .navbar-right li a:visited{
+
+
+color: white;
+}
+
+
+.navbar-right li:hover{
+background: #e53b40;
+border-radius: 8px;
+font-color:white;
+transition: 0.7s;
+
+}
+
+
+
+.navbar-default .navbar-right li a:hover{
+
+
+color: white;
+}
+
+.navbar-default .navbar-right li a {
+
+color: white;
+
+
+}
+.dropdown-menu li a:hover{
+
+background: #e53b40;
+
+
+}
+
+.navbar-collapse .navbar-right .active  {
+
+
+background: #e53b40;
+border-radius: 3px;
+border-bottom: ;
+color: white;
+
+
+
+
+}
+
+
+
+
+
+ .active  {
+border-radius: 8px;
+color:white;
+background: #C4021D;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.navbar-toggle{
+color: white;
+background: #C4021D;
+font-weight: bold;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.cent{
+color: white;
+text-decoration: none;
+float: right;
+list-style: none;
+text-align: center;
+
+}
+
+
+.logo{
+width: 150px;
+height: 80px;
+background: url('../img/logo1.png');
+margin-top: -22px;
+background-size: 130px;
+background-repeat: no-repeat;
+background-position: center;
+background-color: none;
+
+
+
+}
+
+
+
+/* ICONES */
+
+
+.fa-phone .fa-whatsapp{
+
+	margin-top: 4px;
+}
+
+
+
+.fa-facebook,.fa-instagram{ 
+
+
+    font-size: 18px;
+	margin-top: 4px; 
+	color: white; 
+  
+}
+
+
+.fa-facebook:hover{
+
+opacity: 0.7;
+
+}
+
+.fa-instagram:hover{
+opacity: 0.7;
+color: ;
+}
+
+
+
+/*  Cover
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+h2{
+background: yellow;
+color: black;
+width: auto;
+padding: 6px;
+border-radius: 7px;
+text-align: center;
+
+}
+
+h1{
+color: white;
+text-shadow: 3px 3px 3px black;
+font-size: 44PX;
+}
+
+#cover{
+width: auto;
+height: 42%;
+background:url('http://2.bp.blogspot.com/-XacjtRFmW9A/VkCSmgr9nBI/AAAAAAAAB8Q/qmRdGcOT0UE/s1600/children-day%2Bimages%2Bfor%2Bfacebook.jpg');
+background-size: cover;
+background-position:top center;
+max-width: 100%;
+border-top: 5px solid white;
+background-repeat: no-repeat;
+margin-top: -20px;
+}
+
+.mar-top{
+background: none;
+width: 1200px;
+max-width: 100%;
+padding: 20px;
+height: auto;
+
+
+}
+
+
+
+.not{
+
+
+
+border-radius: 20px;
+margin-left: 5%;
+text-shadow: 2px 2px 2px black;
+color: white ;
+background-repeat: no-repeat;
+background-color: #ed1c24;
+padding: 20px;
+
+}
+
+.ma{
+background:none;
+border-radius: 6px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+
+}
+
+
+.instr{
+
+
+
+}
+
+.background-product{
+background:url('http://www.webdesignhot.com/wp-content/uploads/2016/06/Orange_Yellow_Gradient_Background.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+border-top: solid 6px white;
+
+}
+
+h2{
+color: white;
+text-shadow:  4px 4px 5px black;
+
+
+}
+
+
+
+footer{
+height: auto;
+width: auto;
+background:url('http://wallpapercave.com/wp/ROBntMb.jpg'); 
+color:white;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: none;
+}
+
+.middle-footer{
+padding: 20px;
+width: 1200px;
+margin: 0 auto;
+height: auto;
+max-width: 100%;
+overflow: hidden;
+background: ;
+
+}
+
+
+.footer li{
+display: inline-block;
+margin-right: 8px;
+margin: 26px;
+
+
+}
+
+
+@media only screen and (max-width: 780px){
+
+
+
+.logo{
+width: 150px;
+height: 80px;
+background: url('../img/logo1.png');
+margin-top: -22%;
+background-size: 130px;
+background-repeat: no-repeat;
+background-position: center;
+background-color: none;
+
+
+
+}
+
+
+
+
+.dropdown-menu li:focus {
+
+background: none;
+color: white;
+
+}
+
+
+.dropdown-menu li:hover {
+text-shadow: none;
+background:#e53b40; 
+color: white;
+
+}
+
+.dropdown-menu li {
+text-shadow: none;
+background: white;
+color: white;
+
+}
+
+
+
+.navbar-toggle{
+color: white;
+background:#f2f2f2 ;
+font-weight: bold;
+margin-left: 4%;
+
+}
+
+
+
+.cent{
+display: none;
+
+}
+
+
+}
+
+
+@media only screen and (max-width: 480px){
+.logo{
+width: 120px;
+height: 80px;
+background: url('../img/logo1.png');
+margin-top: -23%;
+background-size: 97px;
+background-repeat: no-repeat;
+background-position: center;
+background-color: none;
+
+
+
+}
+
+
+
+}
+
+/*
+
+
+
+
+
+
+
+
+
